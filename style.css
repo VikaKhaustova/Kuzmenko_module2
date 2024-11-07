@@ -1,0 +1,61 @@
+header{
+    background-color: rgb(124, 160, 203);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px ;
+}
+header b{
+    text-shadow: 1px 1px 1px rgb(36, 36, 36); 
+    color: rgb(168, 33, 198);
+}
+header a{
+    background-color: rgb(21, 118, 187);
+    color:  lavenderblush;
+    padding: 5px;
+    border: 2px dashed rgb(0, 242, 255);
+    border-radius: 10px;
+    text-decoration: none; 
+}
+h1{
+    color: rgb(22, 157, 103);
+    background-color: rgb(0, 255, 157);
+    text-align: center;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 1px 3px 3px rgb(5, 95, 72);
+}
+footer{
+    background-color: rgb(127, 2, 194);
+}
+
+footer p{
+    background-color: rgb(175, 17, 248);
+    border: 10px double rgb(35, 218, 206);
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+nav{
+    text-align: center;
+    padding: 17px;
+    background-color: rgb(182, 9, 136);
+    border: 3px dashed rgb(15, 241, 105);
+}
+nav a{
+     background-color: rgba(91, 0, 134, 0.74);
+     font-size: 15px;
+     color: rgb(192, 74, 255);
+     text-decoration: none;
+     border-radius: 20px;
+     padding: 7px;
+     border: 3px double rgb(40, 0, 62);
+}
+
+h2{
+    color: rgb(70, 70, 70);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blueviolet;
+}
